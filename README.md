@@ -4,7 +4,7 @@
 <br>
 
 ## **Education**
-**2024&nbsp;&nbsp;Feb**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chungbuk National University,&nbsp;&nbsp; Computer Science & English Language and Literature
+**2024&nbsp;&nbsp;&nbsp;Feb**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chungbuk National University,&nbsp;&nbsp; Computer Science & English Language and Literature
 <br>
 
 
