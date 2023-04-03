@@ -10,10 +10,12 @@
 <br>
 
 ## **Skills**
-<img src="https://img.shields.io/badge/Python-3DFC84?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/C-3DFC84?style=flat-square&logo=flat-square&logo=C&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-3DFC84?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-3DFC84?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+
 
 
 <br>
@@ -25,5 +27,8 @@
 </p>
 
 <br>
-
-Copyright ©Youngjin Choi. All rights reserved.
+<p align="center">
+<a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
+<a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+<a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+</p>
