@@ -7,7 +7,7 @@
 **2024&nbsp;&nbsp;&nbsp;Feb**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chungbuk National University,&nbsp;&nbsp; Computer Science & English Language and Literature
 <br>
 
-
+<br>
 
 ## **Skills**
 <img src="https://img.shields.io/badge/Python-3DFC84?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
