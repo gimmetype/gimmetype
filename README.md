@@ -1,5 +1,5 @@
 <center>
-<img src="https://capsule-render.vercel.app/api?text=Mihyeong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kim&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=100"/></center>
+<img src="https://capsule-render.vercel.app/api?text=Gimme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=100"/></center>
 
 <br>
 
@@ -11,7 +11,7 @@
 
 ## **Skills**
 <img src="https://img.shields.io/badge/Python-3DFC84?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/C-3DFC84?style=flat-square&logo=C%2B%2B&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/C-3DFC84?style=flat-square&logo=flat-square&logo=C&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-3DFC84?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-3DFC84?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
 
